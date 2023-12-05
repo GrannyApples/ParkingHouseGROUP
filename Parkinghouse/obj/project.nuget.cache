@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x2SDVcgokaQbRpmrSiQfOCQckY3voO36RKGP3a5qTADz6gVoXAB959QvhyvpUiFDUy7C4ullv89Nthudb4dICQ==",
+  "dgSpecHash": "hMAv0EdgnWinySMQXxzXg/bH9BiAgMLftaSpVxiYFvxqQFnIP9YY8W9+MbWZsUUj+gksNlfsi2b2NPQ2NSUoKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\strom\\OneDrive\\Skola\\Github\\Parkinghouse\\Parkinghouse\\Parkinghouse.csproj",
+  "projectFilePath": "C:\\Users\\strom\\OneDrive\\Skola\\Github\\ParkingHouseGROUP\\Parkinghouse\\Parkinghouse.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\strom\\.nuget\\packages\\dapper\\2.1.24\\dapper.2.1.24.nupkg.sha512",
     "C:\\Users\\strom\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

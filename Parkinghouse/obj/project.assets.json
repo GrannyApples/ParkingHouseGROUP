@@ -511,11 +511,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\strom\\OneDrive\\Skola\\Github\\Parkinghouse\\Parkinghouse\\Parkinghouse.csproj",
+      "projectUniqueName": "C:\\Users\\strom\\OneDrive\\Skola\\Github\\ParkingHouseGROUP\\Parkinghouse\\Parkinghouse.csproj",
       "projectName": "Parkinghouse",
-      "projectPath": "C:\\Users\\strom\\OneDrive\\Skola\\Github\\Parkinghouse\\Parkinghouse\\Parkinghouse.csproj",
+      "projectPath": "C:\\Users\\strom\\OneDrive\\Skola\\Github\\ParkingHouseGROUP\\Parkinghouse\\Parkinghouse.csproj",
       "packagesPath": "C:\\Users\\strom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\strom\\OneDrive\\Skola\\Github\\Parkinghouse\\Parkinghouse\\obj\\",
+      "outputPath": "C:\\Users\\strom\\OneDrive\\Skola\\Github\\ParkingHouseGROUP\\Parkinghouse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
